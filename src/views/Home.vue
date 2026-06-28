@@ -3,7 +3,7 @@
 <template>
   <div class="home">
     <h2 class="heading-lg">
-      {{ $t("home.quarriors") }}
+      {{ $t("home.evolution") }}
     </h2>
 
     <UiButton
